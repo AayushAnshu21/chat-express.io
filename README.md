@@ -12,6 +12,7 @@ This is a fork of [chat.io](https://raw.githubusercontent.com/OmarElGabry/chat.i
 ## Install
 + git clone https://github.com/alecksmart/chat-express.io
 + cd chat-express.io
++ edit app/config/config.json
 + npm install
 + node server
 
