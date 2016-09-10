@@ -5,7 +5,10 @@ node_modules
 debug.log
 
 # Uploads
-master/public/uploads
+public/uploads
 
 # grunt runner
 GruntFile.js
+
+# config
+app/config/config.json
