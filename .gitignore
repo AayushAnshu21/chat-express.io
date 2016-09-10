@@ -6,3 +6,6 @@ debug.log
 
 # Uploads
 master/public/uploads
+
+# grunt runner
+GruntFile.js
