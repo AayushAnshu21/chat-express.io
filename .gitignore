@@ -10,5 +10,5 @@ public/uploads
 # grunt runner
 GruntFile.js
 
-# config
+# Config
 app/config/config.json
