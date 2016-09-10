@@ -15,7 +15,6 @@ This is a fork of [chat.io](https://raw.githubusercontent.com/OmarElGabry/chat.i
 + npm install
 + node server
 
-
 ## Features
 + Please refer for the full docs at the [chat.io site](https://raw.githubusercontent.com/OmarElGabry/chat.io)
 
