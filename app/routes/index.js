@@ -1,9 +1,9 @@
 'use strict';
-var express = require('express');
-var router = express.Router();
+var express  = require('express');
+var router   = express.Router();
 var passport = require('passport');
-var User = require('../models/user');
-var Room = require('../models/room');
+var User     = require('../models/user');
+var Room     = require('../models/room');
 // Home page
 router.get('/', function(req, res, next) {
     // If user is already logged in, then redirect to rooms page
