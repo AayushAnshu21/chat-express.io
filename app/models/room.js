@@ -16,7 +16,7 @@ var findById = function(id, callback) {
 }
 var findByIdAndUpdate = function(id, data, callback) {
         roomModel.findByIdAndUpdate(id, data, {
-            new: true
+            'new': true
         }, callback);
     }
     /**
