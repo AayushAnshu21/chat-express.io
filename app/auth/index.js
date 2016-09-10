@@ -1,11 +1,11 @@
 'use strict';
-var config = require('../config');
-var passport = require('passport');
-var logger = require('../logger');
-var LocalStrategy = require('passport-local').Strategy;
+var config           = require('../config');
+var passport         = require('passport');
+var logger           = require('../logger');
+var LocalStrategy    = require('passport-local').Strategy;
 var FacebookStrategy = require('passport-facebook').Strategy;
-var TwitterStrategy = require('passport-twitter').Strategy;
-var User = require('../models/user');
+var TwitterStrategy  = require('passport-twitter').Strategy;
+var User             = require('../models/user');
 /**
  * Encapsulates all code for authentication
  * Either by using username and password, or by using social accounts
