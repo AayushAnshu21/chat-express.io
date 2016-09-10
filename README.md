@@ -1,6 +1,6 @@
 # chat-express.io
 
-A Real Time Chat Application built using Node.js, Express, Mongoose, Socket.io, Passport, & Redis.
+A Real Time Chat Application built using Node.js, Express, Mongoose, Socket.io, Socket.io File Upload, Passport, & Redis.
 
 This is a fork of [chat.io](https://raw.githubusercontent.com/OmarElGabry/chat.io) application by Omar El Gabry
 
