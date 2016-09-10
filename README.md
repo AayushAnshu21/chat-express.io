@@ -20,7 +20,7 @@ This is a fork of [chat.io](https://raw.githubusercontent.com/OmarElGabry/chat.i
 + Please refer for the full docs at the [chat.io site](https://raw.githubusercontent.com/OmarElGabry/chat.io)
 
 ## Added features over chat.io
-+ Messages histoty
++ Messages history
 + File transfer
 
 ## License <a name="license"></a>
