@@ -1,7 +1,8 @@
 {
   "dbURI": "<MongoDBURI>",
   "sessionSecret": "<RandomString>",
-  "defaultHistoryMessagesLimit" : 3,
+  "defaultHistoryMessagesLimit": 3,
+  "uploadsDir": "uploads",
   "facebook": {
     "clientID": "<AppID>",
     "clientSecret": "<AppSecret>",
