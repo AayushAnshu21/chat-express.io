@@ -9,6 +9,10 @@ var flash      = require('connect-flash');
 var routes     = require('./app/routes');
 var session    = require('./app/session');
 var passport   = require('./app/auth');
+// File upload handler
+var siofu      = require('./app/filetransfer');
+    app.use(siofu.router);
+// Server
 var ioServer   = require('./app/socket')(app);
 var logger     = require('./app/logger');
 // Set the port number
@@ -28,7 +32,8 @@ app.use(passport.session());
 app.use(flash());
 app.use('/', routes);
 // Middleware to catch 404 errors
-app.use(function(req, res, next) {
+app.use(function (req, res, next) {
     res.status(404).sendFile(process.cwd() + '/app/views/404.htm');
 });
+// Listener
 ioServer.listen(port);
