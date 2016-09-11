@@ -23,8 +23,13 @@ This is a fork of [chat.io](https://raw.githubusercontent.com/OmarElGabry/chat.i
 + Messages history
 + File transfer
 
+## Screenshot
+[Screenshot]: https://raw.githubusercontent.com/alecksmart/chat-express.io/master/screenshots/Chat%20Express%20IO%20-%20Google%20Chrome_001.jpg "Screenhot 1"
+
+
 ## License <a name="license"></a>
 Built under [MIT](http://www.opensource.org/licenses/mit-license.php) license.
 
 ## Author <a name="auhtor"></a>
 Oleksandr Missa, [http://www.rationalplanet.com](http://www.rationalplanet.com), connect via [linkedin](https://www.linkedin.com/in/alecksmart).
+
