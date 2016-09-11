@@ -2,7 +2,7 @@
 
 A Real Time Chat Application built using Node.js, Express, Mongoose, Socket.io, Socket.io File Upload, Passport, & Redis.
 
-This is a fork of [chat.io](https://raw.githubusercontent.com/OmarElGabry/chat.io) application by Omar El Gabry
+This is a fork of [chat.io](https://github.com/OmarElGabry/chat.io) application by Omar El Gabry
 
 ## Pre-reqisites
 + mongodb
@@ -17,7 +17,7 @@ This is a fork of [chat.io](https://raw.githubusercontent.com/OmarElGabry/chat.i
 + node server
 
 ## Features
-+ Please refer for the full docs at the [chat.io site](https://raw.githubusercontent.com/OmarElGabry/chat.io)
++ Please refer for the full docs at the [chat.io site](https://github.com/OmarElGabry/chat.io)
 
 ## Added features over chat.io
 + Messages history
