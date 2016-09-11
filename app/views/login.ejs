@@ -12,6 +12,15 @@
         <div style="margin-top: 18px;">
             <form action="/register" class="register-form" method="post" >
               <h1>Chat Sign Up</h1>
+              <div class="social-buttons">
+                      <div><span>Login</span> via</div>
+                      <a href="/auth/facebook">
+                        <img class="loginBtn" src="img/facebookLoginBtn.png" alt="Sign-In with Facebook">
+                      </a>
+                      <a href="/auth/twitter">
+                        <img class="loginBtn" src="img/twitterLoginBtn.png" alt="Sign-In with Twitter">
+                      </a>
+              </div>
               <input type="text" name="username" placeholder="username"/>
               <input type="password" name="password" placeholder="password"/>
               <button type="submit">create</button>
