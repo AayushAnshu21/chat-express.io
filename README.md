@@ -24,7 +24,7 @@ This is a fork of [chat.io](https://raw.githubusercontent.com/OmarElGabry/chat.i
 + File transfer
 
 ## Screenshot
-![Screenshot](https://raw.githubusercontent.com/alecksmart/chat-express.io/master/screenshots/Chat%20Express%20IO%20-%20Google%20Chrome_001.jpg)
+![Screenshot](https://raw.githubusercontent.com/alecksmart/chat-express.io/master/screenshots/Chat%20Express%20IO%20-%20Google%20Chrome_001.jpg =300x)
 
 
 ## License <a name="license"></a>
