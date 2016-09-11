@@ -1,6 +1,6 @@
 {
-  "dbURI": "<MongoDBURI>",
-  "sessionSecret": "<RandomString>",
+  "dbURI": "mongodb://testalec:testbelec@127.0.0.1:27017/test",
+  "sessionSecret": "abcdefjhiJKLMNOP1234567890)(*&^%$#@!",
   "defaultHistoryMessagesLimit": 3,
   "uploadsDir": "uploads",
   "facebook": {
